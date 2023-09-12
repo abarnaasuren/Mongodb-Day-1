@@ -1,0 +1,46 @@
+[
+  {
+    _id: "65002e514cd86e41ef92578f",
+    id: "2",
+    product_name:
+      "Practical Fresh Sausages",
+    product_price: 911,
+    product_material: "Cotton",
+    product_color: "indigo",
+  },
+  {
+    _id: "65002e514cd86e41ef925791",
+    id: "4",
+    product_name:
+      "Gorgeous Plastic Pants",
+    product_price: 492,
+    product_material: "Soft",
+    product_color: "plum",
+  },
+  {
+    _id: "65002e514cd86e41ef925797",
+    id: "10",
+    product_name:
+      "Generic Wooden Pizza",
+    product_price: 84,
+    product_material: "Frozen",
+    product_color: "indigo",
+  },
+  {
+    _id: "65002e514cd86e41ef92579e",
+    id: "17",
+    product_name:
+      "Incredible Metal Car",
+    product_price: 36,
+    product_material: "Fresh",
+    product_color: "indigo",
+  },
+  {
+    _id: "65002e514cd86e41ef9257a6",
+    id: "25",
+    product_name: "Licensed Steel Car",
+    product_price: 20,
+    product_material: "Cotton",
+    product_color: "indigo",
+  },
+];

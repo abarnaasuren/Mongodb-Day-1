@@ -1,0 +1,11 @@
+[
+  {
+    _id: "6500250f81b553eaabeb48de",
+    id: "10",
+    product_name:
+      "Generic Wooden Pizza",
+    product_price: 84,
+    product_material: "Frozen",
+    product_color: "indigo",
+  },
+];
